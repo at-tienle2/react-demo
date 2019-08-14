@@ -1,0 +1,4 @@
+@import "../base/mixins.theme.scss";
+@import "../base/variables.scss";
+
+@include theme($success)
